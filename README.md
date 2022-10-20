@@ -18,6 +18,6 @@ Runs the server on [http://localhost:5000](http://localhost:5000).
 
 ## Built With
 
--Javascript
+- Javascript
 - Node
 - Express
