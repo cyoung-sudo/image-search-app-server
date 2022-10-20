@@ -1,8 +1,6 @@
 <h1 align="center">Image Search App (server)</h1>
 
-## Description
-
-An app that allows the user to browse for images. This repository is the server code.
+<p align="center">An app that allows the user to browse for images. This repository is the server code.</p>
 
 ## Links
 
